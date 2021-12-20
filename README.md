@@ -1,1 +1,1 @@
-# Fish-Weight-Prediction-Beginners-
+# Fish Weight Prediction (for Beginners)
